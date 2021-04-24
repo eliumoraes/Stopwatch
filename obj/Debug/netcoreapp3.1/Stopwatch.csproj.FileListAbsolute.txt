@@ -1,0 +1,13 @@
+D:\balta\fundamentos\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.exe
+D:\balta\fundamentos\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.deps.json
+D:\balta\fundamentos\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.json
+D:\balta\fundamentos\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.dev.json
+D:\balta\fundamentos\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.dll
+D:\balta\fundamentos\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.pdb
+D:\balta\fundamentos\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csprojAssemblyReference.cache
+D:\balta\fundamentos\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+D:\balta\fundamentos\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+D:\balta\fundamentos\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache
+D:\balta\fundamentos\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.dll
+D:\balta\fundamentos\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.pdb
+D:\balta\fundamentos\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.genruntimeconfig.cache
